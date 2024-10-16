@@ -1,4 +1,4 @@
-print("This program prints table of any positive integer given as an input.")
+print("This program prints table of any positive integer given as an input.\n")
 
 integer = int(input("Enter any positive integer: "))
 
